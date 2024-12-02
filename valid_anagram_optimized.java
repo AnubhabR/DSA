@@ -1,3 +1,5 @@
+// For some reason Leetcode ranks this higher than using hashmap
+
 import java.util.Arrays;
 import java.util.Scanner;
 
